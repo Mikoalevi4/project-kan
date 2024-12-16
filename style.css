@@ -168,3 +168,14 @@ footer {
         gap: 10px; /* Менший розрив між зображеннями */
     }
 }
+
+iframe {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    height: 450px;
+    margin: 20px auto;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
